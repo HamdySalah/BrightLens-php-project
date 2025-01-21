@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables
+.env
+
+# Ignore compiled or log files
+*.log
+*.bak
+*.swp
+
+# Ignore vendor directory (if using Composer)
+/vendor/
+
+# Ignore node_modules (if using npm)
+/node_modules/
